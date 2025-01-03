@@ -5,7 +5,7 @@ ipykernel
 pypdf
 bs4
 arxiv
-pymupdfpip list 
+pymupdfpip  
 wikipedia
 langchain-text-splitters
 langchain-openai
