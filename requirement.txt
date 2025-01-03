@@ -13,7 +13,7 @@ chromadb
 langchain-ollama
 sentence_transformers
 langchain_huggingface
-faiss-cpu
+
 langchain_chroma
 langchain_core
 beautifulsoup4
@@ -29,16 +29,3 @@ wikipedia
 duckduckgo-search
 mysql-connector-python
 SQLAlchemy
-validators==0.28.1
-youtube_transcript_api
-unstructured
-pytube
-numexpr
-huggingface_hub
-pyodbc
-matplotlib 
-plotly
-validators
-youtube_transcript_api
-pytube
-unstructured
