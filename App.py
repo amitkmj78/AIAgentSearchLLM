@@ -118,7 +118,7 @@ def list_models():
 
 def main():
     
-    if st.sidebar.button("Check Connection and List Models"):
+    if st.sidebar.button("Connect to AWS BedRock"):
        with st.spinner("Processing..."):
         models = list_models()
         st.write(models)
@@ -180,7 +180,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
 
 
